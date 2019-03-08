@@ -1,16 +1,9 @@
-# social_login_demo
+# Flutter Facebook / Google Login with Firebase Auth
+I just recently started making a Flutter app and I 
+found my self struggling with implementing social login.
+So this is my attempt to make it a little easier for everyone else.
 
-Social Login demo
+This project contains a **Simple UI** and all the dependencies that are 
+required for making a social login work with **Firebase Auth**
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+You can find my article [here](https://medium.com/@harshitkanodia/flutter-google-facebook-sign-in-using-firebase-auth-dd9b2d71b1c).
